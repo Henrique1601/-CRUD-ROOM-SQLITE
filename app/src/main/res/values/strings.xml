@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicativoRoom</string>
+    <string name="edt_fname">Digite O Primeiro Nome</string>
+    <string name="edt_lname">Digite O Último Nome</string>
+</resources>
